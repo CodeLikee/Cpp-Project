@@ -11,5 +11,7 @@ We used :
 <ul>
   <li>C++ in OOP concepts</li>
   <li>SFML for game animations and sound effects.</li>
-  <li>Our designs was made with PPT Simple</li>
+  <li>Our designs was made Simple Image Editors</li>
 </ul>
+
+<b> Instructions are given to "Details.txt" file  </b>
