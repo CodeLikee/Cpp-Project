@@ -1,0 +1,26 @@
+========>>>>>> Only for Fun and Test Instructions:
+1. clone all files and double click on "Game Universe.exe" no need anything else.
+2. FPS make some difference in your device So don't fear.
+3. Other things:-
+
+>press enter for start or esc to skip.
+
+>Press enter for pause and restart game after Game Over.
+>Press esc for exit from game only.
+>Use aswd or arrow keys to move player.
+>press space for fire or left mouse key.
+
+	>in sikh fire game it follows your mouse location.
+	when ghost spawn player loose health.
+	press enter for again reset health 😁(cheat)
+
+
+========>>>>>> For learn and edit 
+1. You have to learn SFML Basics.
+2. All Code is present in Main.cpp
+3. Other files are for support the "Game Universe.exe" 
+4. Code Details:
+	a.Code is divided into 5 parts with comment lines : 1 for Home page and other for games.
+	b.Code is full of notes so Don't fear.
+	c. ".txt" files are for Save High Score.
+5. If you have any questin than Just Contact Me.
